@@ -2,8 +2,8 @@
 
 
 require("./all/module")
-global.owner = "2348024322741" 
-global.namaCreator = "𝕶𝖎𝖓𝖌 𝕾𝖆𝖒" 
+global.owner = "2349138466675" 
+global.namaCreator = "Destiny official" 
 global.autoJoin = false 
 global.antilink = false 
 global.versisc = '6.0' 
@@ -12,7 +12,7 @@ global.isLink = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e'
 global.sessionName = 'session'
 global.thumb = fs.readFileSync("./thumb.png") 
 global.audionya = fs.readFileSync("./all/sound.mp3") 
-global.packname = "𝕶𝖎𝖓𝖌 𝕾𝖆𝖒" 
+global.packname = "Destiny official" 
 global.author = "𝐒𝚸𝚰𝐃𝚵𝚪-𝛁6" 
 global.jumlah = "5" 
 global.namabot = "𝐒𝚸𝚰𝐃𝚵𝚪-𝛁6" 
